@@ -45,9 +45,7 @@ Call this from web root. The path must not be preceded with a slash.
 
 == Credits ==
 
-This plugin combines a few great public resources into one greater package.
-
-See: /app/core/lib
+This plugin combines a few great public resources into one package.
 
 
 = Authors =
