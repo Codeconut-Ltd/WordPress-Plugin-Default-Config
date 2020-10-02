@@ -1,0 +1,10 @@
+{
+  "require-dev": {
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+    "roave/security-advisories": "dev-master",
+    "wp-coding-standards/wpcs": "^2.2"
+  },
+  "require": {
+    "squizlabs/php_codesniffer": "*"
+  }
+}
