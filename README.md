@@ -29,12 +29,12 @@ _Due to use of many 3rd party sources, this plugin is not official. Take what yo
 ## Features
 
 Some features are **breaking changes** and limit functinality of plugins.
-If you need something that doesn't work, you may disable single features.
+Unneeded features can be disabled in code.
 
 ### Security
 
 - Disable XMLRPC API (breaks mobile app use!)
-- Disallow login via email address ()
+- Disallow login via email address (use user name instead)
 - Disable oEmbed
 - Remove login error message
 - Remove meta tags and version numbers
@@ -64,7 +64,7 @@ Copy the folder content in your WordPress installation.
 
 #### Features
 
-All feature classes are loaded here:
+All features are loaded modular and can be edited here:
 
 - `/wp-content/plugins/codeconutltd-global/app/class.php`
 
