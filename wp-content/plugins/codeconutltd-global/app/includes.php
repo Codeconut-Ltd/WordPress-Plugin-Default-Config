@@ -2,7 +2,7 @@
 /**
  * Class and config includes.
  *
- * @package CodeconutLtd_Global
+ * @package CodeconutLtd_Theme__Generic_Global
  */
 
 // Config
@@ -23,4 +23,3 @@ require_once 'core/lib/wpbeginner-comment-antispam.php';
 require_once 'core/theme/emojis.php';
 require_once 'core/theme/header-links.php';
 require_once 'core/theme/scripts.php';
-

@@ -3,6 +3,7 @@
 # WordPress Security & Performance
 
 - [About](#about)
+- [Features](#features)
 - [How to use](#how-to-use)
 - [Credits](#credits)
 
@@ -25,9 +26,47 @@ _Due to use of many 3rd party sources, this plugin is not official. Take what yo
 
 <br><br>
 
+## Features
+
+Some features are **breaking changes** and limit functinality of plugins.
+If you need something that doesn't work, you may disable single features.
+
+### Security
+
+- Disable XMLRPC API (breaks mobile app use!)
+- Disallow login via email address ()
+- Disable oEmbed
+- Remove login error message
+- Remove meta tags and version numbers
+- Remove links + HTML from posted comments (anti-spam)
+
+### Performance
+
+- Disable Emoji font and styles (can still be used via Unicode)
+- Remove unused links from `<head>` (e.g. feeds)
+- Move all loaded scripts to document end (remove from head)
+
+### General
+
+- Disable redundant self ping (reduce server load)
+- Delay post publication via RSS (ideal for last-minute QA and fixes)
+- Set image quality to 100% (use plugins for compression)
+
+### Developer
+
+- Clean and modern OOP style
+
+<br><br>
+
 ## How to use
 
-Copy the folder content in your WordPress directory.
+Copy the folder content in your WordPress installation.
+
+#### Features
+
+All feature classes are loaded here:
+
+- `/wp-content/plugins/codeconutltd-global/app/class.php`
 
 #### Git workflow
 
