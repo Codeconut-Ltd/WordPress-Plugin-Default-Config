@@ -1,12 +1,9 @@
 {
   "recommendations": [
     "bmewburn.vscode-intelephense-client",
-    "dbaeumer.vscode-eslint",
     "dotjoshjohnson.xml",
     "editorconfig.editorconfig",
-    "esbenp.prettier-vscode",
     "mehedidracula.php-namespace-resolver",
-    "stylelint.vscode-stylelint",
     "valeryanm.vscode-phpsab"
   ]
 }
