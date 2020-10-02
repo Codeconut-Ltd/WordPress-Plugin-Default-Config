@@ -1,4 +1,4 @@
-![Angular Snippet Collection](teaser.png)
+![WordPress Plugin Default Config](teaser.png)
 
 # WordPress Security & Performance
 
