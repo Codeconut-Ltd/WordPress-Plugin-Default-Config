@@ -28,13 +28,13 @@ _Due to use of many 3rd party sources, this plugin is not official. Take what yo
 
 ## Features
 
-Some features are **breaking changes** and limit functinality of plugins.
+Some features are **breaking changes** and limit functionality of plugins.
 Unneeded features can be disabled in code.
 
 ### Security
 
 - Disable XMLRPC API (breaks mobile app use!)
-- Disallow login via email address (use user name instead)
+- Disallow login via email address (use username instead)
 - Disable oEmbed
 - Remove login error message
 - Remove meta tags and version numbers
@@ -72,7 +72,7 @@ All features are loaded modular and can be edited here:
 
 Use of submodules is recommended:
 
-`git submodule add USER:REPOSITORY wp-content/plugins/codeconut-global`
+- `git submodule add USER:REPOSITORY wp-content/plugins/codeconut-global`
 
 Call this from web root. The path must not be preceded with a slash.
 
