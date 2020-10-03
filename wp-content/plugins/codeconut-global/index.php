@@ -5,7 +5,7 @@
  * Description: Config plugin for enhanced security and frontend performance – Generic and theme-independent
  * Author: Codeconut Ltd.
  * Author URI: https://www.codeconut.io
- * Text Domain: codeconutltd-global
+ * Text Domain: codeconut-global
  * Domain Path: /languages/
  * Version: 2.0.0
  * Requires at least: 5.3

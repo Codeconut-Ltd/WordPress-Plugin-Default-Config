@@ -35,7 +35,7 @@ Enabling this plugin might also interfere with 3rd party application functionali
 
 Use of submodules is recommended:
 
-    git submodule add USER:REPOSITORY wp-content/plugins/codeconutltd-global
+    git submodule add USER:REPOSITORY wp-content/plugins/codeconut-global
 
 Call this from web root. The path must not be preceded with a slash.
 

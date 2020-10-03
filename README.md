@@ -66,13 +66,13 @@ Copy the folder content in your WordPress installation.
 
 All features are loaded modular and can be edited here:
 
-- `/wp-content/plugins/codeconutltd-global/app/class.php`
+- `/wp-content/plugins/codeconut-global/app/class.php`
 
 #### Git workflow
 
 Use of submodules is recommended:
 
-`git submodule add USER:REPOSITORY wp-content/plugins/codeconutltd-global`
+`git submodule add USER:REPOSITORY wp-content/plugins/codeconut-global`
 
 Call this from web root. The path must not be preceded with a slash.
 
