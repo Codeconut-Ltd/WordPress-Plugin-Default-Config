@@ -2,7 +2,7 @@
 /**
  * Global constant definitions.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

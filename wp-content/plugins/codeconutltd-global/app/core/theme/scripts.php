@@ -2,10 +2,10 @@
 /**
  * Script and styles handling.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
-namespace CodeconutLtd_Global\Core\Theme;
+namespace Codeconut_Global\Core\Theme;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;

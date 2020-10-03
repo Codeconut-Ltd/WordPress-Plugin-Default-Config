@@ -2,10 +2,10 @@
 /**
  * Security enhancements.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
-namespace CodeconutLtd_Global\Core;
+namespace Codeconut_Global\Core;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;

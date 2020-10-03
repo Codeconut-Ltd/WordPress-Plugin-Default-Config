@@ -4,10 +4,10 @@
  *
  * @link https://www.drweb.de/wordpress-snippets
  * @author Andreas Hecht
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
-namespace CodeconutLtd_Global\Core\Lib;
+namespace Codeconut_Global\Core\Lib;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;

@@ -2,10 +2,10 @@
 /**
  * Singleton pattern.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
-namespace CodeconutLtd_Global\Utilities;
+namespace Codeconut_Global\Utilities;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Singleton pattern.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 abstract class Singleton {
 	/**

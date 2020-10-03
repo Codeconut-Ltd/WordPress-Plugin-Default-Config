@@ -2,7 +2,7 @@
 /**
  * Class and config includes.
  *
- * @package CodeconutLtd_Theme__Generic_Global
+ * @package Codeconut_Theme__Generic_Global
  */
 
 // Config

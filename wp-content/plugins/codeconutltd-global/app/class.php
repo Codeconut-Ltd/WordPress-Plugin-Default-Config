@@ -2,13 +2,13 @@
 /**
  * Main entry point.
  *
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
 require_once 'includes.php';
 
-use CodeconutLtd_Global\Core;
-use CodeconutLtd_Global\Utilities\Singleton;
+use Codeconut_Global\Core;
+use Codeconut_Global\Utilities\Singleton;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Main entry point.
  * Includes plugin config and features.
  */
-final class CodeconutLtd_Global_Plugin extends Singleton {
+final class Codeconut_Global_Plugin extends Singleton {
 	/**
 	 * Constructor.
 	 */
@@ -39,4 +39,3 @@ final class CodeconutLtd_Global_Plugin extends Singleton {
 		new Core\Security();
 	}
 }
-

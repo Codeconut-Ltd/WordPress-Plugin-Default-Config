@@ -4,10 +4,10 @@
  *
  * @link https://www.wpbeginner.com/beginners-guide/vital-tips-and-tools-to-combat-comment-spam-in-wordpress
  * @author WpBeginner
- * @package CodeconutLtd_Global
+ * @package Codeconut_Global
  */
 
-namespace CodeconutLtd_Global\Core\Lib;
+namespace Codeconut_Global\Core\Lib;
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;

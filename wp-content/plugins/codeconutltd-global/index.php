@@ -13,9 +13,9 @@
  * @category  Plugin
  * @copyright Copyright © 2020 Codeconut Ltd.
  * @author    Codeconut Ltd.
- * @package   CodeconutLtd_Global
+ * @package   Codeconut_Global
  */
 
 require_once 'app/class.php';
 
-CodeconutLtd_Global_Plugin::get_instance();
+Codeconut_Global_Plugin::get_instance();
