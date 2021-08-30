@@ -1,6 +1,8 @@
 ![WordPress Plugin Default Config](teaser.png)
 
-# WordPress Security & Performance
+# WordPress Plugin – Default Config
+
+Security & Performance focus
 
 - [About](#about)
 - [Features](#features)
