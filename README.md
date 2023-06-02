@@ -13,11 +13,6 @@ Security & Performance focus
 
 ---
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Codeconut-Ltd_WordPress-Plugin-Default-Config&metric=alert_status)](https://sonarcloud.io/dashboard?id=Codeconut-Ltd_WordPress-Plugin-Default-Config)
-![Maintenance](https://img.shields.io/static/v1?label=maintained&message=unregular&color=inactive)
-
-<br><br>
-
 ## About
 
 Only use if you know what you need. WordPress plugin with some hardcoded, opinionated defaults for enhanced security and reduced feature set. Generic and theme-independent implementation with a modern code style.
